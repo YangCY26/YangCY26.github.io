@@ -1,6 +1,6 @@
 ---
 title: Chaoyu Yang
-role: Postdoc of University of Chinese Academy and Science (UCAS)
+role: Research Assistant Professor of MAE
 bio: My research interests include microfluidics, fluid dynamics,
   nature-inspired engineering, droplet, wettablity.
 interests:
@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: yu0326@mail.ustc.edu.cn
+    link: cyyang@cuhk.edu.hk
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=zh-CN&user=IvQEGk8AAAAJ
@@ -20,8 +20,8 @@ social:
     icon_pack: ai
     link: uploads/CV_YangCY.pdf
 organizations:
-  - name: University of Chinese Academy and Science (UCAS)
-    url: https://www.ucas.ac.cn/
+  - name: The Chinese University of Hong Kong (CUHK)
+    url: https://www4.mae.cuhk.edu.hk/peoples/yang-chaoyu/
 education:
   courses:
     - course: Ph.D. in Mechanical Engineering
