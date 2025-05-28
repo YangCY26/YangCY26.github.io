@@ -33,11 +33,11 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Yang
 highlight_name: true
-first_name: Alice
-email: yu0326@mail.ustc.edu.cn
+first_name: Chaoyu
+email: cyyang@cuhk.edu.hk
 ---
 
-Chaoyu Yang is a postdoctor of University of Chinese Academy and Science. His research focuses on **microfluidics for novel material production**, fluid dynamics, nature-inspired engineering, droplet, wettability. Up to date, He has developed several strategies to create new functional materials using capillary microfluidic platforms. By dynamically manipulating the multiphase flow in the microchannel, new materials (such as jellyfish particles, double emulsions, spindle-knot microfibers, hemline microfibers, hemline microtube) are readily achieved. All the structures are based on the controlled flow configuration which can serve as templates to build new structures. Apart from the material production, he also developed **open microfluidic methods to scale up the fabrication of emulsion drops** to produce practical quantities. Which is motivated by both fundamental studies and the potential for creating technologically valuable materials, and some of the work has led to industrial applications.
+Chaoyu Yang is now a Research Assistant Professor in the Department of Mechanical and Automation Engineering (MAE) at The Chinese University of Hong Kong (CUHK). Before joining CUHK in 2023, he worked as a postdoctoral researcher in Prof. Yuanjin Zhao’s group at the Wenzhou Institute, University of Chinese Academy of Sciences (UCAS). He received his B.S. and Ph.D. degrees in Mechanical Engineering from the University of Science and Technology of China (USTC) in 2015 and 2020, respectively. His current research focuses on microfluidics for novel material production, nature-inspired engineering, droplet dynamics, wettability, and microrobots. His innovative work has resulted in several publications in scientific journals, including Nature Chemical Engineering, Small, Chemical Engineering Journal, Research, Lab on a Chip, Physics of Fluids, Applied Physics Letters, Materials Chemistry Frontiers, Engineered Regeneration, among others.
 {style="text-align: justify;"}
